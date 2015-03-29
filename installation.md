@@ -1,4 +1,4 @@
-##### INSTALLATION ######
+# INSTALLATION
 
 Are you ready to install the spt and try it for yourself?  Great!
 
