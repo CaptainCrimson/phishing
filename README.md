@@ -8,35 +8,13 @@ We're taking matters into our own hands now.
 ## How can I help?
 Please please please look at the [reported issues](https://github.com/simplephishingtoolkit/sptoolkit-rebirth/issues) and if you're able, try fixing them! :)
 
+### About
 The spt (rebirth) project is an open source phishing education toolkit that aims to help in securing the mind as opposed to securing computers. Organizations spend billions of dollars annually in an effort to safeguard information systems, but spend little to nothing on the under trained and susceptible minds that operate these systems, thus rendering most technical protections instantly ineffective. A simple, targeted link is all it takes to bypass the most advanced security protections. The link is clicked, the deed is done.
 
 spt was developed from the ground up to provide a simple and easy to use framework to identify your weakest links so that you can patch the human vulnerability.  If the spt project sounds interesting to you, please consider downloading it for evaluation in your own organization.  Feedback is welcomed and always appreciated.
 
-- the spt project
-
-Current stable version:  0.80.1
+**Current stable version:  0.80.1**
 Next release version:  0.80.2
 
-
-
-                                .D ~=                                           
-   .8O?++++++++++++++++++++++++++D ==                                           
- .D,                             ..    Z                                        
- D                                    NM                                 7MM    
-8,               .?ZDDNNND8$:       .OMM       ,Z8I.          IZ7,       7MM    
-O           .$MMMMMMMMMMMMMMMMMMNI  NMMM     DMMMMMM~   MMO~MMMMMMMM   MMMMMMMMM
-I         IMMMMMMMMMMMMMMMMMMMMMMMMMMMMM    OMM.        MMMM      MMM    7MM    
-$       .ZMMMMM.MMMMMMMMMMMMMMMMMMMMMMMM    OMM~        MMM,       MM8   7MM    
-8.      ,MMM  .MMMMMMMMMMMMMMMMMMMMMMMMM    .NMMM?      MMM        MMM   7MM    
-,8      .MMM ,  MMMMMMMMMMMMMMMMMMMMMMMM       ZMMMM    MMM        MMM   7MM    
-  ~O8OZZ8DMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM          NMM.  MMM        MMD   7MM    
-           ?MMMMMMMMMMMMMMMMMMMMMMN=MMMM           MM,  MMMM      MMM    ?MM    
-              +OMMMMMMMMMMMMMMNZ    ?MMM    MM7:,$MM8   MMMMMD.,DMMM      MMM7$=
-                                     ,MM    .ZMMMMZ.    MMM .NMMMN         NMMM7
-                                      +M                MMM                     
-                                       ,                MMM                     
-                                                        MMM                     
-                                                        ~~~.                    
-														
 
 
