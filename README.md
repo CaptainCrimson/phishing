@@ -14,6 +14,7 @@ The spt (rebirth) project is an open source phishing education toolkit that aims
 spt was developed from the ground up to provide a simple and easy to use framework to identify your weakest links so that you can patch the human vulnerability.  If the spt project sounds interesting to you, please consider downloading it for evaluation in your own organization.  Feedback is welcomed and always appreciated.
 
 **Current stable version:  0.80.1**
+
 Next release version:  0.80.2
 
 
