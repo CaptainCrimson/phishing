@@ -7,7 +7,8 @@ Welcome to the spt (rebirth) project.
 We're taking matters into our own hands now.
 
 ## How can I help?
-Please please please look at the [reported issues](https://github.com/simplephishingtoolkit/sptoolkit-rebirth/issues) and if you're able, try fixing them! :)
+Please please please look at the [reported issues](https://github.com/simplephishingtoolkit/sptoolkit-rebirth/issues) and if you're able, try fixing them! Nothing that takes your fancy? Install spt(r), give it a go and submit some bugs/feature suggestions.
+We accept pull requests, so give it a go!
 
 ## INSTALLATION
 
