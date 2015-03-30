@@ -34,7 +34,7 @@ You should have received a copy of the GNU General Public License along with spt
 
 ##### INSTALLATION ######
 
-Are you ready to install the spt and try it for yourself?  Great!  Check out our documentation library on the spt website at http://www.sptoolkit.com/documentation for full details on installing and using the spt.  
+Are you ready to install the spt and try it for yourself?
 
 Installation quick steps are presented below.
 
