@@ -59,34 +59,11 @@ Installation quick steps are presented below.
 
 
 	
-##### MORE INFORMATION #####
-
-To learn more about the spt, please visit our website at http://www.sptoolkit.com.  You can view and download the source code for the spt at our code repository, located at https://github.com/sptoolkit/sptoolkit.
-
-
-
-##### CONTACT US #####
-
-If you need to contact us about the spt for any reason, please use the contact form located on our website at http://www.sptoolkit.com/contact.
-
-You can also contact us using the following social options:
-
-    - Twitter:  https://twitter.com/#!/sptoolkit
-    - Facebook:  https://www.facebook.com/pages/Simple-Phishing-Toolkit/283776764993701
-    - Google+:  https://plus.google.com/105346310708842344637?prsrc=3
-    - YouTube:  https://www.youtube.com/user/sptoolkit
-
-
-
-##### NEED HELP? #####
-
-If you need any help with using or installing the spt, please visit our support forums located on our website at http://www.sptoolkit.com/forums.
-
 
 
 ##### WANT TO CONTRIBUTE? #####
 
-The spt is an open source project, and we'd be more than happy to hear your ideas or suggestions for additions.  Perhaps you want to donate a new template you have developed or have an awesome module that can be loaded into the spt?  Please let us know by contacting us as detailed above.
+The spt is an open source project, and we'd be more than happy to hear your ideas or suggestions for additions.  Perhaps you want to donate a new template you have developed or have an awesome module that can be loaded into the spt?  Please let us know by submitting a bug report (feature request).
 
 
 
@@ -98,13 +75,14 @@ Please see the credits.txt file included in the root of the extracted files for 
 
 ##### PROJECT FOUNDERS #####
 
-The spt is a collaborative effort of two full-time information security professionals who had an idea and some time to make it happen.
+The original spt is a collaborative effort of two full-time information security professionals who had an idea and some time to make it happen.
 
  - Derek (1 or onespt)
  - Will (42 or 42spt)
 
-Please see the full details of the spt project team members on our website at http://www.sptoolkit.com/who. 
+spt(r) was begun by Sam Tarling (@samueltarling) and is continued by our amazing contributors.
 
 
-Thanks for using the spt!
-- the spt project!
+
+Thanks for using the spt(r)!
+- the spt rebirth project
