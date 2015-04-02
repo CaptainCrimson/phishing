@@ -1,4 +1,5 @@
 [![Stories in Ready](https://badge.waffle.io/simplephishingtoolkit/sptoolkit-rebirth.png?label=ready&title=Ready)](https://waffle.io/simplephishingtoolkit/sptoolkit-rebirth)
+[![Stories in Ready](https://badge.waffle.io/simplephishingtoolkit/sptoolkit-rebirth.png?label=ready&title=Ready)](https://waffle.io/simplephishingtoolkit/sptoolkit-rebirth)
 # From the ashes shall rise a phish..
 
 Welcome to the spt (rebirth) project.
