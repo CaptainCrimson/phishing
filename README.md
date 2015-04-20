@@ -16,7 +16,7 @@ We accept pull requests, so give it a go!
 ### The Basics
 
 1.  Create and configure the MySQL database.  spt will need a MySQL database to house its data, so go ahead and create that database and configure the associated user account for the new database with ALL PRIVILEGES assigned to it.  Be sure you record the database name, user name and password in a safe place, you'll need it soon to install spt!
-2.  Ensure you have PHP 5.3*
+2.  Ensure you have PHP 5.4
 3.  Extract the spt files from the archive.
 4.  Create a new directory on your web server, such as "spt" and upload the files to the directory.
 
