@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/simplephishingtoolkit/sptoolkit-rebirth.png?label=ready&title=Ready)](https://waffle.io/simplephishingtoolkit/sptoolkit-rebirth)
 Bugs/Feature requests: [![Stories in Backlog](https://badge.waffle.io/simplephishingtoolkit/sptoolkit-rebirth.png?label=backlog&title=Backlog)](https://waffle.io/simplephishingtoolkit/sptoolkit-rebirth) [![Stories in Accepted](https://badge.waffle.io/simplephishingtoolkit/sptoolkit-rebirth.png?label=accepted&title=Accepted)](https://waffle.io/simplephishingtoolkit/sptoolkit-rebirth)
 
 # From the ashes shall rise a phish..
